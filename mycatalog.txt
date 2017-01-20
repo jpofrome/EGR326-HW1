@@ -1,0 +1,8 @@
+M4 Water Polo Ball,40,10,35
+Godly Surf Wax,5,5,3.50
+Revenge Of Titans Video Game,60
+Blue Condor Shoes,59.99,3,50
+Sketch Book,7.50,10,6
+GoKu Muscle Shirt,15,10,10
+Channel Islands Surf Board,150
+Death Note,100
